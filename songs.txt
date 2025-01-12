@@ -1,8 +1,5 @@
 song1
 song2
 song3
-<<<<<<< HEAD
 song4
-=======
 song1-other
->>>>>>> ef6dd86 (add other songs & movies)
