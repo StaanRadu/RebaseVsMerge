@@ -1,5 +1,9 @@
 movie1
 movie2
 movie3
+<<<<<<< HEAD
 movie4
 movie5-Github
+=======
+movie1-other
+>>>>>>> ef6dd86 (add other songs & movies)
