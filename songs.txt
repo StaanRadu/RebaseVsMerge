@@ -3,3 +3,5 @@ song2
 song3
 song4
 song1-other
+song5-GitHub
+song6-GitHub
